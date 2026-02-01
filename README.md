@@ -1,4 +1,4 @@
-# React Form Validation App ✅
+# React Form Validation Project ✅
 
 A simple **Form Validation application built using React**.  
 This project validates user inputs in real-time and displays error messages for empty fields using React state management.
